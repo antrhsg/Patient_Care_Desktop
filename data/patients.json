@@ -1,0 +1,8 @@
+[
+  {"id":"0b700c6c-2703-4c7a-8299-3ab8969e2d09","firstName":"Sarah","lastName":"Johnson","dateOfBirth":"1985-03-14","gender":"Female","phone":"614-555-0101","email":"sjohnson@email.com","bloodType":"A+","allergies":"Penicillin","notes":"Hypertension — monitor BP"  },
+  {"id":"1915cd0a-a217-41a8-85a3-f81b3e4cb686","firstName":"Michael","lastName":"Chen","dateOfBirth":"1972-11-28","gender":"Male","phone":"614-555-0182","email":"mchen@email.com","bloodType":"O-","allergies":"None","notes":"Type 2 diabetes, annual eye exam needed"  },
+  {"id":"687e5721-b682-4b1c-830e-682d44254207","firstName":"Emily","lastName":"Rodriguez","dateOfBirth":"1990-07-04","gender":"Female","phone":"614-555-0247","email":"erodriguez@email.com","bloodType":"B+","allergies":"Sulfa drugs, shellfish","notes":"Asthma — carry inhaler"  },
+  {"id":"d2c4fe6a-a544-4703-8a21-0da253dbce21","firstName":"James","lastName":"Williams","dateOfBirth":"1965-01-19","gender":"Male","phone":"614-555-0318","email":"jwilliams@email.com","bloodType":"AB+","allergies":"Aspirin","notes":"Post-cardiac event, monthly check-ins"  },
+  {"id":"3627881e-5d0d-4d8d-a73f-288f1843a5c8","firstName":"Aisha","lastName":"Patel","dateOfBirth":"2000-09-30","gender":"Female","phone":"614-555-0409","email":"apatel@email.com","bloodType":"O+","allergies":"Latex","notes":"Seasonal allergies, otherwise healthy"  },
+  {"id":"66566799-51ef-4d17-92ac-bb9db83da2e6","firstName":"Timothy","lastName":"Carpenter","dateOfBirth":"1985-05-12","gender":"Male","phone":"","email":"","bloodType":"A+","allergies":"","notes":""  }
+]
