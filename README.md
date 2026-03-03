@@ -13,8 +13,7 @@ Built with clean MVC architecture.
 
 ## Requirements
 
-- Java 14 or later (uses switch expressions)  
-- No external libraries or build tools needed  
+- Java 14 or later 
 
 ## Running the app
 
@@ -60,8 +59,5 @@ PatientCare/
 
 ## Architecture
 
-Following **Model-View-Controller** pattern:
+**Model-View-Controller**
 
-- **Models** (`model/`) hold only data and getters/setters  
-- **Controllers** (`controller/`) own the in-memory lists, handle all business logic, and coordinate persistence
-- **Views** (`view/`) build and manage the Swing components, delegate all data operations to controllers  
